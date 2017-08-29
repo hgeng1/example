@@ -33,3 +33,4 @@ dev.off()
 
 #histogtram
 hist(Sin,main="histogram of sin(a))
+hist(Cos,main="histogram of cos(a))
