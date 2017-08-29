@@ -32,4 +32,4 @@ plot(a,Cos,type="l", col="Red")
 dev.off()
 
 #histogtram
-hist(Sin)
+hist(Sin,main="histogram of sin(a))
